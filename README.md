@@ -2,7 +2,7 @@
 
 Vous travaillez en groupe sur un dépôt GitHub pour produire un site web en Golang.
 
-Le site affiche pour le moment une page vide. Deux fonctionnalités seront développées en parallèle, depuis la branche `dev` déjà existante (voir schéma de l’état initial du dépôt).
+Le site affiche pour le moment une page vide. un nombre incalculable de fonctionalités seront développées en parallèle, depuis la branche `dev` déjà existante (voir schéma de l’état initial du dépôt).
 
 La première est l’affichage de l’URL visitée par l’utilisateur, dans la branche `feature-url`, où la branche est déjà créée et le développement est terminé. La seconde fonctionnalité est l’affichage d’une page en couleur, dans la branche `feature-color` qui devra être créée et développée par vous.
 
