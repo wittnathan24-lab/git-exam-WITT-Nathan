@@ -1,0 +1,8 @@
+La différence entre la commande git reset et git revert est que git reset remet à le fichier à l'état du commit
+précédent celui qui est supprimé en effaçant toutes traces de son existance alors que git revert créé un nouveau
+commit comprenent les version des fichier précédent le dernier commit
+
+j'ai choisis de réaliser un git revert car j'ai écrit la différence entre le reset et le revert dans le README et je ne
+voulais donc pas le supprimer de plus, si du travail a été réalisé dedans, il est mieux de garder de traces pour
+pouvoir le refaire proprement et ne pas avoir à refaire tout le travail.
+
